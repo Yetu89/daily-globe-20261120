@@ -1,14 +1,14 @@
 # THE DAILY GLOBE — 20 November 2026
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun)
-[![make.fun bounty](https://make.fun/badge-bounty.svg)](https://make.fun/bounty/news-image-20261120)
-[![make.fun entry](https://make.fun/badge-entry.svg)](https://make.fun/bounty/news-image-20261120)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/Yetu89/daily-globe-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/Yetu89/daily-globe-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 One image that sums up the world news of Friday, 20 November 2026: Cyclone
 Akvan's landfall on India's east coast, the world court's genocide verdict
 against Myanmar, Somalia's expulsion of the UAE ambassador, Russian strikes
-in Kyiv, a sixth straight losing day on Wall Street, Ant's market debut, and
-the day's market numbers.
+in Kyiv, the S and P's sixth straight loss on Wall Street, Ant's market
+debut, and the day's market numbers.
 
 ## How it is made
 
